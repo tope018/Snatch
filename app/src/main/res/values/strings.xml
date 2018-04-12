@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Snatch</string>
+    <string name="member_signup">Already a member? Login</string>
+    <string name="create_account">Create Account</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="logo">Logo</string>
+    <string name="member_login">No account yet? Create one</string>
+    <string name="login">Login</string>
+</resources>
